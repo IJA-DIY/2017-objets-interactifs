@@ -1,0 +1,10 @@
+1. dézipper rfid.txt
+
+2. mettre le répertoire rfid nouvellement créé dans le répertoire personnel arduino (suivant vos préférences)/libraries
+
+3. relancer arduino
+	Dans exemples, vous devriez avoir dans le sous-dossier "Exemples depuis les bibliothèques personnalisées" un dossier MFR522C
+
+4. dézippervl'exemple NFC_UID.zip, l'ouvrir, compiler et téléverser ...
+
+5. approcher un tag
